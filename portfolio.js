@@ -1,0 +1,1 @@
+localStorage.setItem("sakthi",JSON.stringify("sakthi"))
